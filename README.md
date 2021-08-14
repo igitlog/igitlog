@@ -1,4 +1,3 @@
-// readme structure
 [![ReachMe](https://github.com/igitlog/igitlog/blob/main/assets/reachMe.png)](https://t.me/const_DEV)
 
 ## These repositories are made exclusively for educational and demonstrative purposes, using them do not forget about Code Review.
