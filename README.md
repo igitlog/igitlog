@@ -13,4 +13,4 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-white?style=for-the-badge&logo=Webpack)
 ![Gulp](https://img.shields.io/badge/-gulp-white?style=for-the-badge&logo=gulp)
 
-### GitHub page
+### GitHub page: [GitPage](https://igitlog.github.io/index.html)
