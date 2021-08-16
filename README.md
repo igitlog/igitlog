@@ -9,9 +9,8 @@
 ![CSS](https://img.shields.io/badge/-css-success?style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-react-blue?style=for-the-badge&logo=react)
+![JSON](https://img.shields.io/badge/-json-9cf?style=for-the-badge&logo=json)
 ![Webpack](https://img.shields.io/badge/-Webpack-white?style=for-the-badge&logo=Webpack)
 ![Gulp](https://img.shields.io/badge/-gulp-white?style=for-the-badge&logo=gulp)
-![JSON](https://img.shields.io/badge/-json-9cf?style=for-the-badge&logo=json)
-
 
 ### GitHub page
