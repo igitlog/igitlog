@@ -1,6 +1,7 @@
 [![ReachMe](https://github.com/igitlog/igitlog/blob/main/assets/reachMe.png)](https://t.me/const_DEV)
 
 ## These repositories are made exclusively for educational and demonstrative purposes, using them do not forget about Code Review.
+## If you’ve landed on this page, it means I’m most likely open to job offers, write to me in a telegram
 ## You are Welcome!
 
 ### STACK:
