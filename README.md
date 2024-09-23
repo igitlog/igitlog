@@ -3,7 +3,7 @@
 ## These repositories are made exclusively for educational and demonstrative purposes, using them do not forget about Code Review.
 ## If you’ve landed on this page, it means I’m most likely open to job offers, write to me in a telegram
 
-## ACTIVITY IS NOT TRUE, SO JUST LOOK AT THE PROJECTS
+## ACTIVITY IS NOT TRUE, SO JUST LOOK AT THE PROJECTS!
 
 ## You are Welcome!
 
